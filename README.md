@@ -1,2 +1,2 @@
-# hello-word
-Just another repository
+ola sou galaxy 
+bem vindos  
